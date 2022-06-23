@@ -1,6 +1,6 @@
 /*
  *  This files includes all shared dependencies across packages
- *  Centrolized dependencies can guarante the version consistency
+ *  Centralized dependencies can guarante the version consistency
  */
 import BigNumber from 'bignumber.js'
 import { BIP32Interface as HDNode, BIP32Factory, BIP32API } from 'bip32'
