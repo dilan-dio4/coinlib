@@ -13,6 +13,7 @@ compiled/
 coverage/
 dist/
 docs/
-node_modules/
+**/node_modules/
 simple.ts
 vendor/
+**/package-lock.json
